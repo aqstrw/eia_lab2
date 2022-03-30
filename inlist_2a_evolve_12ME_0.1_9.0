@@ -50,7 +50,7 @@
 	history_interval = 2
 	terminal_interval = 10
 
-	star_history_name = "planet_2a_evolve_12ME_0.1_9.0"
+	star_history_name = "history_planet_2a_evolve_12ME_0.1_9.0"
 
 / ! end of controls namelist
 
