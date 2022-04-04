@@ -5,10 +5,10 @@
       show_log_description_at_start = .true.
 
       load_saved_model = .true.
-      saved_model_name = "planet_1d_setS_15ME_0.1_9.0.mod"
+      saved_model_name = "planet_1d_setS_12ME_0.1_9.0.mod"
 
       save_model_when_terminate = .true.
-      save_model_filename = "planet_2a_evolve_15ME_0.1_9.0.mod"
+      save_model_filename = "planet_2a_evolve_12ME_0.1_9.0.mod"
 
       ! remove energy dissipation from the core
       relax_L_center = .true.
@@ -51,7 +51,7 @@
 	history_interval = 2
 	terminal_interval = 10
 
-	star_history_name = "history_2a_evolve_15ME_0.1_9.0"
+	star_history_name = "history_2a_evolve_12ME_0.1_9.0"
 
 / ! end of controls namelist
 
