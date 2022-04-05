@@ -1,0 +1,1 @@
+The calclculations_lab2 plotting section needs to be run in a directory one directory higher than the eia_lab1 repo
